@@ -1,1 +1,1 @@
-obfuscated script here
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexKar00Scripts/PS99/refs/heads/main/PS99Script"))()
